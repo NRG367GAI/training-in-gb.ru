@@ -1,6 +1,4 @@
-# training-in-gb.ru
-Educational project
-# Инструкция для работы с Markdown
+ # Инструкция для работы с Markdown
 
  ## Выделение текста
 
