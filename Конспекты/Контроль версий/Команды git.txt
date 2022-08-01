@@ -1,0 +1,48 @@
+git –version
+
+git init
+
+git status
+
+git add hello world.md
+
+git commit –m "Пояснение к фиксации"
+
+git log
+
+git checkout master
+
+git diff  
+
+git add.
+
+
+
+Clear
+
+git add Markdown_Instruction.md
+
+git commit -m "initial commit
+
+ctrl+s
+
+git branch
+
+git branch имя_новой_ветки
+
+git checkout имяНовойВетки
+
+git log
+
+git checkout имяВетки
+
+git checkout draft(имя ветки)
+
+git merge имяВетки
+
+git branch -d имяВетки
+git branch -d draft
+
+файл .gitignore (без расширения)
+
+git log -- graph
